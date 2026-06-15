@@ -137,6 +137,18 @@ ul {
     border-color: var(--accent);
 }
 
+.btn-fanclub {
+    background: linear-gradient(135deg, #1877f2, #4267b2);
+    color: #fff;
+    border: 1px solid #1877f2;
+}
+
+.btn-fanclub:hover {
+    background: transparent;
+    color: #1877f2;
+    box-shadow: 0 0 20px rgba(24, 119, 242, 0.35);
+}
+
 .btn-lg {
     padding: 16px 36px;
     font-size: 1.05rem;
